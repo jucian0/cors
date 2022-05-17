@@ -4,4 +4,4 @@ A simple forward proxy server for processing API calls to servers that don't sen
 
 ## Usage
 
-http://localhost:4000/fetch/{url}
+http://localhost:4000/fetch/{target_api}
